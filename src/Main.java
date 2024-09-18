@@ -18,6 +18,7 @@ public class Main
 
         String complexString="Name: " +myString +"\t"+"Title: "+titleString;
         System.out.println(complexString);
+        System.out.println();
 
     }
 }
